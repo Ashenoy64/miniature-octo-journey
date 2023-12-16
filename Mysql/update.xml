@@ -1,0 +1,11 @@
+<root>
+    <Books>
+        <Entry>
+            <BookID>60</BookID>
+            <Title>The Intelligent Investor</Title>
+            <Author>Benjamin Graham</Author>
+            <Price>2113.00</Price>
+            <Quantity>30</Quantity>
+        </Entry>
+    </Books>
+</root>

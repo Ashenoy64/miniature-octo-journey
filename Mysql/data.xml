@@ -1,0 +1,71 @@
+<root>
+    <Books>
+        <Entry>
+            <BookID>20</BookID>
+            <Title>Sapiens: A Brief History of Humankind</Title>
+            <Author>Yuval Noah</Author>
+            <Price>459.00</Price>
+            <Quantity>20</Quantity>
+        </Entry>
+        <Entry>
+            <BookID>30</BookID>
+            <Title>Essentialism: The Disciplined Pursuit of Less</Title>
+            <Author>Greg McKeown</Author>
+            <Price>1798.00</Price>
+            <Quantity>15</Quantity>
+        </Entry>
+        <Entry>
+            <BookID>40</BookID>
+            <Title>How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships</Title>
+            <Author>Leil Lowndes</Author>
+            <Price>235.00</Price>
+            <Quantity>20</Quantity>
+        </Entry>
+        <Entry>
+            <BookID>50</BookID>
+            <Title>Rich Dad Poor Dad</Title>
+            <Author>Robert T. Kiyosaki</Author>
+            <Price>244.07</Price>
+            <Quantity>2</Quantity>
+        </Entry>
+        <Entry>
+            <BookID>60</BookID>
+            <Title>The Intelligent Investor</Title>
+            <Author>Benjamin Graham</Author>
+            <Price>2113.00</Price>
+            <Quantity>10</Quantity>
+        </Entry>
+    </Books>
+    <Users>
+        <Entry>
+            <UserID>1</UserID>
+            <Username>Avanish Shenoy</Username>
+            <Password>password</Password>
+        </Entry>
+        <Entry>
+            <UserID>2</UserID>
+            <Username>B Monish Moger</Username>
+            <Password>incorrect_password</Password>
+        </Entry>
+    </Users>
+    <Carts>
+        <Entry>
+            <CartID>12</CartID>
+            <UserID>1</UserID>
+            <BookID>20</BookID>
+            <Quantity>2</Quantity>
+        </Entry>
+        <Entry>
+            <CartID>13</CartID>
+            <UserID>1</UserID>
+            <BookID>60</BookID>
+            <Quantity>1</Quantity>
+        </Entry>
+        <Entry>
+            <CartID>10</CartID>
+            <UserID>2</UserID>
+            <BookID>20</BookID>
+            <Quantity>2</Quantity>
+        </Entry>
+    </Carts>
+</root>
