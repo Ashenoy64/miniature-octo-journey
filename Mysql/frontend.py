@@ -202,7 +202,7 @@ if __name__ == "__main__":
             {
                 "host": "localhost",
                 "user": "root",
-                "password": "shenoy@72",
+                "password": "12345",
                 "database": "OnlineBookstore",
             }
         )
